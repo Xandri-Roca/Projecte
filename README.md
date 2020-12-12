@@ -22,3 +22,4 @@ Web Scraper 1.1
 Done:
 1) Finish implementing the exclusive use of graphic menu or terminal menu (that things do not appear from one when the other is being used)
 2) Add second layer for the messages of the scraping methods
+3) Implement option 4
