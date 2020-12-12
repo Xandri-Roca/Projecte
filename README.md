@@ -12,10 +12,13 @@ Done:
 
 To do:
 1) Implement option 4
-1.2) Implement the option to choose the name of the directory where you're saving everything
 2) Finish implementing the exclusive use of graphic menu or terminal menu (that things do not appear from one when the other is being used)
-3) Add second layer for sub-options of scraping methods
+3) Add second layer for the messages of the scraping methods
 4) Implement all options for dynamic websites.
 
 
 Web Scraper 1.1
+
+Done:
+1) Finish implementing the exclusive use of graphic menu or terminal menu (that things do not appear from one when the other is being used)
+2) Add second layer for the messages of the scraping methods
