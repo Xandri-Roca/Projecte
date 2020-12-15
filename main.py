@@ -42,7 +42,3 @@ if __name__ == "__main__":
             inp = str(input("Terminal[t] o Aplicació[a]? "))
     
 
-#To Do:
-    # Seprar i reorganitzar el codi en varies classes i fitxers
-    # acabar la part del menu grafic per a que funcioni i no interaccioni amb el puto menu terminal
-    # Afegir la basura del scrapping dynamic
